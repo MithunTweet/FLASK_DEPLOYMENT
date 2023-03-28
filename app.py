@@ -17,5 +17,5 @@ def greeter():
 
 
 # main driver function
-if __name__ == '__main__':
-    app.run()
+# if __name__ == '__main__':
+#     app.run()
